@@ -1,0 +1,5 @@
+E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/INSTALL.dir
+E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/ALL_BUILD.dir
+E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/ZERO_CHECK.dir
+E:/DEVEL/SurgicalProcessIdentificationSystem/Build/src/CMakeFiles/SurgicalProcessIdentificationSystem.dir
+E:/DEVEL/SurgicalProcessIdentificationSystem/Build/src/CMakeFiles/INSTALL.dir

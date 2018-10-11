@@ -1,0 +1,8 @@
+﻿  Checking Build System
+  CMake is re-running because E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'E:/DEVEL/SurgicalProcessIdentificationSystem/CMakeLists.txt'
+    is newer than 'E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: E:/DEVEL/SurgicalProcessIdentificationSystem/Build

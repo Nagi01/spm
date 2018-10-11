@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\qt_toolbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\surgicaldetection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\surgicalposition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\surgicalidentification.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\src\moc_qt_toolbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\src\moc_surgicaldetection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\src\moc_surgicalposition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\src\moc_surgicalidentification.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\src\SurgicalProcessIdentificationSystem_autogen\mocs_compilation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\src\ui_qt_toolbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\qt_toolbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\surgicaldetection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\surgicalposition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\surgicalidentification.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\DEVEL\SurgicalProcessIdentificationSystem\src\qt_toolbox.ui" />
+    <CustomBuild Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\0f7f90a21b272533dc6ef4e9dd3d5800\moc_qt_toolbox.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\0f7f90a21b272533dc6ef4e9dd3d5800\moc_surgicaldetection.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\0f7f90a21b272533dc6ef4e9dd3d5800\moc_surgicalposition.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\0f7f90a21b272533dc6ef4e9dd3d5800\moc_surgicalidentification.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7447418C-BCA3-344D-8570-297F2B894222}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D9D5759F-BC97-33E1-921B-BC20BA57657C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{58C77ED7-C14D-3DC6-8158-A4B5BFA23F42}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,372 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine �o�[�W���� 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2018/09/30 22:23:42 �Ƀr���h���J�n���܂����B
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)" �ɂ��� BeforeTargets �����Ɉꗗ�\������Ă���^�[�Q�b�g "_ConvertPdbFiles" �̓v���W�F�N�g���ɑ��݂��Ȃ����߁A��������܂��B
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)" �ɂ��� AfterTargets �����Ɉꗗ�\������Ă���^�[�Q�b�g "_CollectPdbFiles" �̓v���W�F�N�g���ɑ��݂��Ȃ����߁A��������܂��B
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)" �ɂ��� BeforeTargets �����Ɉꗗ�\������Ă���^�[�Q�b�g "_CollectMdbFiles" �̓v���W�F�N�g���ɑ��݂��Ȃ����߁A��������܂��B
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)" �ɂ��� AfterTargets �����Ɉꗗ�\������Ă���^�[�Q�b�g "_CopyMdbFiles" �̓v���W�F�N�g���ɑ��݂��Ȃ����߁A��������܂��B
+�m�[�h 1 ��̃v���W�F�N�g "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\3.11.4\CompilerIdC\CompilerIdC.vcxproj" (����̃^�[�Q�b�g)�B
+PrepareForBuild:
+  �f�B���N�g�� "Debug\" ���쐬���Ă��܂��B
+  �f�B���N�g�� "Debug\CompilerIdC.tlog\" ���쐬���Ă��܂��B
+InitializeBuildStatus:
+  "AlwaysCreate" ���w�肳�ꂽ���� "Debug\CompilerIdC.tlog\unsuccessfulbuild" ���쐬���Ă��܂��B
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\3.11.4\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  �t�@�C�� "Debug\CompilerIdC.tlog\unsuccessfulbuild" ���폜���Ă��܂��B
+  "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate" �̃^�b�` �^�X�N�����s���Ă��܂��B
+�v���W�F�N�g "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\3.11.4\CompilerIdC\CompilerIdC.vcxproj" (����̃^�[�Q�b�g) �̃r���h���������܂����B
+
+�r���h�ɐ������܂����B
+    0 �̌x��
+    0 �G���[
+
+�o�ߎ��� 00:00:00.58
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine �o�[�W���� 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2018/09/30 22:23:43 �Ƀr���h���J�n���܂����B
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)" �ɂ��� BeforeTargets �����Ɉꗗ�\������Ă���^�[�Q�b�g "_ConvertPdbFiles" �̓v���W�F�N�g���ɑ��݂��Ȃ����߁A��������܂��B
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)" �ɂ��� AfterTargets �����Ɉꗗ�\������Ă���^�[�Q�b�g "_CollectPdbFiles" �̓v���W�F�N�g���ɑ��݂��Ȃ����߁A��������܂��B
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)" �ɂ��� BeforeTargets �����Ɉꗗ�\������Ă���^�[�Q�b�g "_CollectMdbFiles" �̓v���W�F�N�g���ɑ��݂��Ȃ����߁A��������܂��B
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)" �ɂ��� AfterTargets �����Ɉꗗ�\������Ă���^�[�Q�b�g "_CopyMdbFiles" �̓v���W�F�N�g���ɑ��݂��Ȃ����߁A��������܂��B
+�m�[�h 1 ��̃v���W�F�N�g "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\3.11.4\CompilerIdCXX\CompilerIdCXX.vcxproj" (����̃^�[�Q�b�g)�B
+PrepareForBuild:
+  �f�B���N�g�� "Debug\" ���쐬���Ă��܂��B
+  �f�B���N�g�� "Debug\CompilerIdCXX.tlog\" ���쐬���Ă��܂��B
+InitializeBuildStatus:
+  "AlwaysCreate" ���w�肳�ꂽ���� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" ���쐬���Ă��܂��B
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\3.11.4\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  �t�@�C�� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" ���폜���Ă��܂��B
+  "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate" �̃^�b�` �^�X�N�����s���Ă��܂��B
+�v���W�F�N�g "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\3.11.4\CompilerIdCXX\CompilerIdCXX.vcxproj" (����̃^�[�Q�b�g) �̃r���h���������܂����B
+
+�r���h�ɐ������܂����B
+    0 �̌x��
+    0 �G���[
+
+�o�ߎ��� 00:00:00.56
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_a4050.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2018/09/30 22:23:43 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_a4050.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_a4050.dir\Debug\" を作成しています。
+  ディレクトリ "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_a4050.dir\Debug\cmTC_a4050.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_a4050.dir\Debug\cmTC_a4050.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4050.dir\Debug\\" /Fd"cmTC_a4050.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4050.dir\Debug\\" /Fd"cmTC_a4050.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_a4050.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_a4050.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_a4050.lib" /MACHINE:X64  /machine:x64 cmTC_a4050.dir\Debug\testCCompiler.obj
+  cmTC_a4050.vcxproj -> E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_a4050.exe
+  cmTC_a4050.vcxproj -> E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_a4050.pdb (Full PDB)
+FinalizeBuildStatus:
+  ファイル "cmTC_a4050.dir\Debug\cmTC_a4050.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_a4050.dir\Debug\cmTC_a4050.tlog\cmTC_a4050.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_a4050.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.60
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_2df4d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2018/09/30 22:23:44 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_2df4d.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_2df4d.dir\Debug\" を作成しています。
+  ディレクトリ "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_2df4d.dir\Debug\cmTC_2df4d.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_2df4d.dir\Debug\cmTC_2df4d.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2df4d.dir\Debug\\" /Fd"cmTC_2df4d.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\cmake-3.11.4-win64-x64\share\cmake-3.11\Modules\CMakeCCompilerABI.c"
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2df4d.dir\Debug\\" /Fd"cmTC_2df4d.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\cmake-3.11.4-win64-x64\share\cmake-3.11\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_2df4d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_2df4d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_2df4d.lib" /MACHINE:X64  /machine:x64 cmTC_2df4d.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_2df4d.vcxproj -> E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_2df4d.exe
+  cmTC_2df4d.vcxproj -> E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_2df4d.pdb (Full PDB)
+FinalizeBuildStatus:
+  ファイル "cmTC_2df4d.dir\Debug\cmTC_2df4d.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_2df4d.dir\Debug\cmTC_2df4d.tlog\cmTC_2df4d.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_2df4d.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.63
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_fdad6.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2018/09/30 22:23:45 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_fdad6.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_fdad6.dir\Debug\" を作成しています。
+  ディレクトリ "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_fdad6.dir\Debug\cmTC_fdad6.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_fdad6.dir\Debug\cmTC_fdad6.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fdad6.dir\Debug\\" /Fd"cmTC_fdad6.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fdad6.dir\Debug\\" /Fd"cmTC_fdad6.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_fdad6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_fdad6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_fdad6.lib" /MACHINE:X64  /machine:x64 cmTC_fdad6.dir\Debug\testCXXCompiler.obj
+  cmTC_fdad6.vcxproj -> E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_fdad6.exe
+  cmTC_fdad6.vcxproj -> E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_fdad6.pdb (Full PDB)
+FinalizeBuildStatus:
+  ファイル "cmTC_fdad6.dir\Debug\cmTC_fdad6.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_fdad6.dir\Debug\cmTC_fdad6.tlog\cmTC_fdad6.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_fdad6.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.64
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_91209.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2018/09/30 22:23:46 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_91209.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_91209.dir\Debug\" を作成しています。
+  ディレクトリ "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_91209.dir\Debug\cmTC_91209.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_91209.dir\Debug\cmTC_91209.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_91209.dir\Debug\\" /Fd"cmTC_91209.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Program Files\cmake-3.11.4-win64-x64\share\cmake-3.11\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_91209.dir\Debug\\" /Fd"cmTC_91209.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Program Files\cmake-3.11.4-win64-x64\share\cmake-3.11\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_91209.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_91209.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_91209.lib" /MACHINE:X64  /machine:x64 cmTC_91209.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_91209.vcxproj -> E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_91209.exe
+  cmTC_91209.vcxproj -> E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_91209.pdb (Full PDB)
+FinalizeBuildStatus:
+  ファイル "cmTC_91209.dir\Debug\cmTC_91209.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_91209.dir\Debug\cmTC_91209.tlog\cmTC_91209.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_91209.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.63
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_9073f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2018/09/30 22:23:47 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_9073f.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_9073f.dir\Debug\" を作成しています。
+  ディレクトリ "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_9073f.dir\Debug\cmTC_9073f.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_9073f.dir\Debug\cmTC_9073f.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9073f.dir\Debug\\" /Fd"cmTC_9073f.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\feature_tests.cxx
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9073f.dir\Debug\\" /Fd"cmTC_9073f.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_9073f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_9073f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_9073f.lib" /MACHINE:X64  /machine:x64 cmTC_9073f.dir\Debug\feature_tests.obj
+  cmTC_9073f.vcxproj -> E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\Debug\cmTC_9073f.exe
+  cmTC_9073f.vcxproj -> E:/DEVEL/SurgicalProcessIdentificationSystem/Build/CMakeFiles/CMakeTmp/Debug/cmTC_9073f.pdb (Full PDB)
+FinalizeBuildStatus:
+  ファイル "cmTC_9073f.dir\Debug\cmTC_9073f.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_9073f.dir\Debug\cmTC_9073f.tlog\cmTC_9073f.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\CMakeTmp\cmTC_9073f.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.61
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

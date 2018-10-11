@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\DEVEL\SurgicalProcessIdentificationSystem\Build\CMakeFiles\d9f7a25c763d4e975e4f693a51630f76\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7447418C-BCA3-344D-8570-297F2B894222}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

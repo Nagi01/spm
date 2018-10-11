@@ -1,0 +1,11 @@
+﻿  main.cpp
+e:\devel\surgicalprocessidentificationsystem\src\qt_toolbox.h(15): fatal error C1083: include ファイルを開けません。'QtMultimediaWidgets':No such file or directory
+  qt_toolbox.cpp
+e:\devel\surgicalprocessidentificationsystem\src\qt_toolbox.h(15): fatal error C1083: include ファイルを開けません。'QtMultimediaWidgets':No such file or directory
+  surgicaldetection.cpp
+E:\DEVEL\SurgicalProcessIdentificationSystem\src\qt_toolbox.h(15): fatal error C1083: include ファイルを開けません。'QtMultimediaWidgets':No such file or directory
+  surgicalposition.cpp
+  moc_qt_toolbox.cpp
+e:\devel\surgicalprocessidentificationsystem\build\src\../../src/qt_toolbox.h(15): fatal error C1083: include ファイルを開けません。'QtMultimediaWidgets':No such file or directory
+  mocs_compilation.cpp
+  コードを生成中...

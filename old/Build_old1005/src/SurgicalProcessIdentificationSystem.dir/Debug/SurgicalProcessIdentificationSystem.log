@@ -1,0 +1,133 @@
+﻿  surgicaldetection.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8865): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8924): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8925): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8926): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8927): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9856): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9864): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9871): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9878): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9885): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9892): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9898): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9904): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9910): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9933): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9942): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9951): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9960): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9974): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9981): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9988): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(9995): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(10002): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(10012): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(10022): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(10032): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(10462): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(10463): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1380): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1390): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1406): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1418): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1444): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1452): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1465): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1564): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1572): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1586): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.h(1593): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winreg.h(84): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winioctl.h(9749): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winioctl.h(11804): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winspool.h(1200): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winspool.h(1205): error C2872: 'ACCESS_MASK': あいまいなシンボルです。
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winnt.h(8864): note: 'DWORD ACCESS_MASK' の可能性があります
+  E:\SOURCE\opencv-3.4.1_module_BUILD\install\include\opencv2/core/mat.hpp(67): note: または 'ACCESS_MASK'
